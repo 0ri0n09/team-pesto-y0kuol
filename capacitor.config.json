@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "Team-Pesto",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
